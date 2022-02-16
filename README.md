@@ -1,2 +1,2 @@
-# alan.github.io
+# blog
 Personal homepage
